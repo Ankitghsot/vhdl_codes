@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Ankit maurya/Desktop/VHDL/divideby5/divideby5testbench_isim_beh.exe" -prj "C:/Users/Ankit maurya/Desktop/VHDL/divideby5/divideby5testbench_beh.prj" "work.divideby5testbench" 

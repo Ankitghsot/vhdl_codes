@@ -1,0 +1,2 @@
+vhdl work "divideby5sequencer.vhd"
+vhdl work "divideby5testbench.vhd"
