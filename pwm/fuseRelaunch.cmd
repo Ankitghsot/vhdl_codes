@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Ankit maurya/Desktop/VHDL/pwm/pwm_isim_beh.exe" -prj "C:/Users/Ankit maurya/Desktop/VHDL/pwm/pwm_beh.prj" "work.pwm" 
