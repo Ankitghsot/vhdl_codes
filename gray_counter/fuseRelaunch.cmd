@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Ankit maurya/Desktop/VHDL/gray_counter/graycounter_isim_beh.exe" -prj "C:/Users/Ankit maurya/Desktop/VHDL/gray_counter/graycounter_beh.prj" "work.graycounter" 
