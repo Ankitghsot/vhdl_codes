@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Ankit maurya/Desktop/VHDL/sign_magnitude_adder/signadder_isim_beh.exe" -prj "C:/Users/Ankit maurya/Desktop/VHDL/sign_magnitude_adder/signadder_beh.prj" "work.signadder" 
