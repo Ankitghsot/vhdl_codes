@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Ankit maurya/Desktop/VHDL/activelow_prioritencoder/encoder_isim_beh.exe" -prj "C:/Users/Ankit maurya/Desktop/VHDL/activelow_prioritencoder/encoder_beh.prj" "work.encoder" 
