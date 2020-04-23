@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Ankit maurya/Desktop/google class/Spartan6-Projects-master/RAM_256by32/RAM_isim_beh.exe" -prj "C:/Users/Ankit maurya/Desktop/google class/Spartan6-Projects-master/RAM_256by32/RAM_beh.prj" "work.RAM" 
